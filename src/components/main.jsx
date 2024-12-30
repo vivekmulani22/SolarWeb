@@ -28,7 +28,7 @@ function Main() {
           muted
           playsInline
         >
-          <source src="./main.mp4" type="video/mp4" />
+          <source src="../public/main.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
